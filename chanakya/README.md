@@ -70,7 +70,20 @@ The E2E journey covers: auth redirect, signup validation, org creation, keyboard
 matching, document provenance + correction, invitation → second user joins as viewer (read-only),
 outsider gets 404 on a foreign org, invitation replay is rejected, mobile layout without horizontal overflow.
 
-## Deployment
+## Deployment (status 10 Nov 2026)
+
+- **Database:** Supabase project **SamaPatra** (`bixtsfgbecickjipkkcm`, ap-south-1). The free-plan limit
+  blocked a new project. Migration 0100 is applied there. The remaining schema plus real data is in
+  `supabase/deploy/bootstrap.sql`: paste it into the SQL editor, or ask Claude to apply it. It adds
+  tables only, with no name collisions with SamaPatra's existing school-app tables. It also adds an
+  `auth.users` trigger that creates a `profiles` row per user.
+- **Real data:** refresh with `node ingest/collect.mjs` then `supabase/deploy/build_bootstrap.sh --skip-foundation`.
+  Sources and licensing: `docs/DATA_SOURCES.md`.
+- **Web:** Vercel project not yet created (the connector lacked permission). Import `reevanai/assistant`,
+  set the root directory to `chanakya/web`, and add `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY` and
+  `NEXT_PUBLIC_SITE_URL`. Functions are pinned to `bom1` (Mumbai) via `web/vercel.json`.
+
+### Generic
 
 - **Database**: `supabase link` then `supabase db push`. Use region `ap-south-1` (Mumbai) for data residency.
 - **Web**: Vercel, root directory `chanakya/web`, set the three `NEXT_PUBLIC_*` variables.
