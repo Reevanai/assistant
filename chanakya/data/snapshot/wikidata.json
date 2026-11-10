@@ -1,0 +1,1576 @@
+{
+ "retrieved_at": "2026-11-10T03:46:54.764Z",
+ "records": {
+  "ministries": [
+   {
+    "m": "http://www.wikidata.org/entity/Q124304103",
+    "website": "https://www.wrd.tn.gov.in/",
+    "inception": "1858-01-01T00:00:00Z",
+    "mLabel": "Government of Tamil Nadu Water Resources Department",
+    "mDescription": "government department of Tamil Nadu state, India",
+    "qid": "Q124304103"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q137104597",
+    "mLabel": "Department of Power",
+    "mDescription": "government department of West Bengal",
+    "qid": "Q137104597"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q167156",
+    "website": "https://morth.nic.in",
+    "mLabel": "Ministry of Road Transport and Highways",
+    "mDescription": "government ministry in India",
+    "qid": "Q167156"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3347935",
+    "website": "http://www.indianrailways.gov.in",
+    "mLabel": "Ministry of Railways",
+    "mDescription": "Indian government ministry responsible for rail transport",
+    "inception": "1905-02-18T00:00:00Z",
+    "qid": "Q3347935"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3524953",
+    "website": "https://www.mea.gov.in/",
+    "mLabel": "Ministry of External Affairs",
+    "mDescription": "government ministry of India",
+    "inception": "1946-09-02T00:00:00Z",
+    "qid": "Q3524953"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3525212",
+    "website": "https://consumeraffairs.nic.in",
+    "mLabel": "Ministry of Consumer Affairs, Food and Public Distribution",
+    "mDescription": "government ministry of India",
+    "inception": "1946-09-02T00:00:00Z",
+    "qid": "Q3525212"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3525265",
+    "website": "https://www.mohfw.gov.in/",
+    "mLabel": "Ministry of Health and Family Welfare",
+    "mDescription": "cabinet ministry of Government of India",
+    "inception": "1976-01-01T00:00:00Z",
+    "qid": "Q3525265"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3525316",
+    "website": "https://coal.gov.in/",
+    "mLabel": "Ministry of Coal",
+    "mDescription": "Indian Government Administrative Branch",
+    "qid": "Q3525316"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3525381",
+    "website": "http://steel.nic.in",
+    "mLabel": "Ministry of Steel",
+    "mDescription": "Government of India ministry",
+    "qid": "Q3525381"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3624238",
+    "website": "http://www.mit.gov.in/",
+    "mLabel": "Ministry of Communications and Information Technology",
+    "mDescription": "Indian government ministry",
+    "inception": "1774-01-01T00:00:00Z",
+    "qid": "Q3624238"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q3634069",
+    "website": "https://agricoop.gov.in/",
+    "mLabel": "Ministry of Agriculture and Farmers' Welfare",
+    "mDescription": "agriculture ministry of India",
+    "qid": "Q3634069"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294643",
+    "website": "http://mdoner.gov.in/",
+    "mLabel": "Ministry of Development of North Eastern Region",
+    "mDescription": "government of India ministry",
+    "inception": "2001-01-01T00:00:00Z",
+    "qid": "Q4294643"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294701",
+    "website": "http://socialjustice.nic.in/",
+    "mLabel": "Ministry of Social Justice and Empowerment",
+    "mDescription": "Indian government ministry responsible for affirmative action",
+    "qid": "Q4294701"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294710",
+    "website": "http://mospi.gov.in/",
+    "mLabel": "Ministry of Statistics and Programme Implementation",
+    "mDescription": "Government of India ministry",
+    "inception": "1999-10-15T00:00:00Z",
+    "qid": "Q4294710"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294719",
+    "website": "http://shipping.nic.in/",
+    "mLabel": "Ministry of Ports, Shipping and Waterways",
+    "mDescription": "Ministry of the Government of India",
+    "qid": "Q4294719"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294724",
+    "website": "https://commerce.gov.in/",
+    "mLabel": "Ministry of Commerce and Industry (India)",
+    "mDescription": "One of the Ministries of India",
+    "qid": "Q4294724"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294756",
+    "website": "http://labour.nic.in",
+    "mLabel": "Ministry of Labour and Employment",
+    "mDescription": "ministry of India",
+    "qid": "Q4294756"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294372",
+    "website": "http://moes.gov.in/",
+    "mLabel": "Ministry of Earth Sciences",
+    "mDescription": "Indian government agency",
+    "inception": "2006-01-01T00:00:00Z",
+    "qid": "Q4294372"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294412",
+    "website": "https://mib.gov.in/",
+    "mLabel": "Ministry of Information and Broadcasting",
+    "mDescription": "ministry of India",
+    "qid": "Q4294412"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294428",
+    "website": "http://persmin.gov.in",
+    "mLabel": "Ministry of Personnel, Public Grievances and Pensions",
+    "mDescription": "government of India Ministry",
+    "qid": "Q4294428"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294433",
+    "website": "http://www.indiaculture.nic.in/",
+    "mLabel": "Ministry of Culture",
+    "mDescription": "ministry of India",
+    "qid": "Q4294433"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294449",
+    "website": "http://ministryoftextiles.gov.in/",
+    "mLabel": "Ministry of Textiles",
+    "mDescription": "Government of India ministry",
+    "qid": "Q4294449"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294472",
+    "mLabel": "Ministry of Science and Technology",
+    "mDescription": "government ministry in India",
+    "inception": "1971-01-01T00:00:00Z",
+    "qid": "Q4294472"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q2607861",
+    "website": "https://गृहमंत्रालय.सरकार.भारत/en",
+    "mLabel": "Ministry of Home Affairs",
+    "mDescription": "government ministry of India",
+    "inception": "1947-01-01T00:00:00Z",
+    "qid": "Q2607861"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q2641068",
+    "website": "http://finmin.nic.in/",
+    "mLabel": "Ministry of Finance of India",
+    "mDescription": "finance ministry of India",
+    "inception": "1947-11-26T00:00:00Z",
+    "qid": "Q2641068"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q2641653",
+    "website": "https://mod.gov.in/",
+    "mLabel": "Ministry of Defence",
+    "mDescription": "Indian government ministry responsible for military and national defence matters",
+    "inception": "1776-01-01T00:00:00Z",
+    "qid": "Q2641653"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q2749442",
+    "website": "http://www.moef.gov.in/",
+    "mLabel": "Ministry of Environment, Forest and Climate Change",
+    "mDescription": "Indian government ministry",
+    "inception": "1980-01-01T00:00:00Z",
+    "qid": "Q2749442"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294327",
+    "website": "http://mpa.nic.in",
+    "mLabel": "Ministry of Mines",
+    "mDescription": "Indian government ministry",
+    "qid": "Q4294327"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294334",
+    "website": "http://moud.gov.in/",
+    "mLabel": "Ministry of Housing and Urban Affairs",
+    "mDescription": "Indian ministry",
+    "qid": "Q4294334"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294342",
+    "website": "http://mhupa.gov.in/index.htm",
+    "mLabel": "Ministry of Housing and Urban Poverty Alleviation",
+    "mDescription": "government ministry of India",
+    "inception": "2004-05-27T00:00:00Z",
+    "qid": "Q4294342"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260139",
+    "website": "http://www.tn.gov.in/departments/agri.html",
+    "mLabel": "Department of Agriculture",
+    "mDescription": "Government department of Agriculture related Projects and developments, in Tamil Nadu state, in India.",
+    "inception": "1949-01-01T00:00:00Z",
+    "qid": "Q5260139"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q7243280",
+    "website": "https://www.pmindia.gov.in/en/",
+    "mLabel": "Prime Minister's Office",
+    "mDescription": "Office of the Prime Minister of India",
+    "qid": "Q7243280"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q7681279",
+    "website": "http://www.forests.tn.nic.in/committee.html",
+    "mLabel": "Tamil Nadu Forest Department",
+    "mDescription": "state-level government agency in India",
+    "inception": "2012-01-01T00:00:00Z",
+    "qid": "Q7681279"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q7899890",
+    "mLabel": "Urban Development and Housing Department",
+    "mDescription": "department of Government of Sikkim",
+    "qid": "Q7899890"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867203",
+    "mLabel": "Ministry of Information Technology of West Bengal",
+    "mDescription": "government department of West Bengal",
+    "qid": "Q6867203"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867351",
+    "mLabel": "Ministry of Land & Land Reforms (West Bengal)",
+    "mDescription": "Indian state government ministry",
+    "inception": "1977-06-21T00:00:00Z",
+    "qid": "Q6867351"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867421",
+    "mLabel": "Ministry of Overseas Indian Affairs",
+    "mDescription": "defunct Indian government ministry",
+    "qid": "Q6867421"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867465",
+    "mLabel": "Ministry of Public Enterprises",
+    "mDescription": "agency in West Bengal",
+    "qid": "Q6867465"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867517",
+    "mLabel": "Ministry of Rural Development",
+    "mDescription": "ministry of infrastructure, social and economic development of sparsely populated areas of India",
+    "qid": "Q6867517"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260158",
+    "website": "http://ayush.gov.in/",
+    "mLabel": "Ministry of Ayush",
+    "mDescription": "government ministry for traditional and alternative medicine",
+    "qid": "Q5260158"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260285",
+    "website": "http://www.tn.gov.in/departments/energy.html",
+    "mLabel": "Department of Energy",
+    "mDescription": "Tamil Nadu",
+    "inception": "1993-01-01T00:00:00Z",
+    "qid": "Q5260285"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260337",
+    "website": "http://www.tn.gov.in/departments/home.html",
+    "mLabel": "Department of Home, Prohibition and Excise",
+    "mDescription": "government department of Tamil Nadu state, India",
+    "inception": "1811-01-01T00:00:00Z",
+    "qid": "Q5260337"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260349",
+    "website": "http://www.tn.gov.in/departments/industries.html",
+    "mLabel": "Department of Industries",
+    "mDescription": "Department for Various Industries for Projects and developments, in the state of Tamil Nadu, in India.",
+    "inception": "1811-01-01T00:00:00Z",
+    "qid": "Q5260349"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260375",
+    "website": "http://www.tn.gov.in/departments/law.html",
+    "mLabel": "Department of Law",
+    "mDescription": "Indian state government department",
+    "inception": "1811-01-01T00:00:00Z",
+    "qid": "Q5260375"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260462",
+    "website": "http://www.tn.gov.in/departments/public.html",
+    "mLabel": "Department of Public, Tamil Nadu",
+    "mDescription": "government department of Tamil Nadu state, India",
+    "inception": "1811-01-01T00:00:00Z",
+    "qid": "Q5260462"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260472",
+    "website": "http://www.tn.gov.in/departments/rev.html",
+    "mLabel": "Department of Revenue",
+    "mDescription": "department of the Government of Tamil Nadu",
+    "inception": "1811-01-01T00:00:00Z",
+    "qid": "Q5260472"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260477",
+    "website": "http://www.tn.gov.in/departments/rd.html",
+    "mLabel": "Department of Rural Development and Panchayat Raj",
+    "mDescription": "department of the Government of Tamil Nadu",
+    "inception": "1811-01-01T00:00:00Z",
+    "qid": "Q5260477"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260486",
+    "website": "http://www.tn.gov.in/departments/social_reforms.html",
+    "mLabel": "Department of Social Reforms",
+    "mDescription": "government department of Tamil Nadu state, India",
+    "inception": "1999-01-01T00:00:00Z",
+    "qid": "Q5260486"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q5260514",
+    "website": "http://www.tn.gov.in/departments/transport.html",
+    "mLabel": "Department of Transport",
+    "mDescription": "department of Government of Tamil Nadu",
+    "inception": "1811-01-01T00:00:00Z",
+    "qid": "Q5260514"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q22673518",
+    "website": "https://www.msde.gov.in/",
+    "mLabel": "Ministry of Skill Development and Entrepreneurship",
+    "mDescription": "Indian government department",
+    "qid": "Q22673518"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867151",
+    "mLabel": "Department of Home and Hill Affairs",
+    "mDescription": "government agency of West Bengal",
+    "qid": "Q6867151"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867195",
+    "mLabel": "Ministry of Information & Cultural Affairs",
+    "mDescription": "Indian state government ministry",
+    "qid": "Q6867195"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294487",
+    "website": "http://petroleum.nic.in",
+    "mLabel": "Ministry of Petroleum and Natural Gas",
+    "mDescription": "ministry of government of India",
+    "qid": "Q4294487"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294489",
+    "website": "http://www.mnre.gov.in/",
+    "mLabel": "Ministry of New and Renewable Energy",
+    "mDescription": "Ministry of Government of India",
+    "inception": "1992-01-01T00:00:00Z",
+    "qid": "Q4294489"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294565",
+    "website": "http://www.mofpi.nic.in",
+    "mLabel": "Ministry of Food Processing Industries",
+    "mDescription": "government of India ministry",
+    "inception": "1988-01-01T00:00:00Z",
+    "qid": "Q4294565"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294585",
+    "website": "http://msme.gov.in/mob/home.aspx",
+    "mLabel": "Ministry of Micro, Small and Medium Enterprises",
+    "mDescription": "ministry of the Government of India",
+    "inception": "2007-01-01T00:00:00Z",
+    "qid": "Q4294585"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294587",
+    "website": "http://www.minorityaffairs.gov.in/",
+    "mLabel": "Ministry of Minority Affairs",
+    "mDescription": "ministry of the Government of India",
+    "inception": "2006-01-01T00:00:00Z",
+    "qid": "Q4294587"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294588",
+    "website": "https://panchayat.gov.in",
+    "mLabel": "Ministry of Panchayati Raj",
+    "mDescription": "ministry of Government of India",
+    "qid": "Q4294588"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294590",
+    "website": "http://yas.nic.in",
+    "mLabel": "Ministry of Youth Affairs and Sports",
+    "mDescription": "Indian government ministry",
+    "qid": "Q4294590"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294592",
+    "website": "http://mpa.nic.in",
+    "mLabel": "Ministry of Parliamentary Affairs",
+    "qid": "Q4294592"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294596",
+    "website": "http://www.mca.gov.in/",
+    "mLabel": "Ministry of Corporate Affairs",
+    "mDescription": "Indian Union Cabinet Ministry",
+    "qid": "Q4294596"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294642",
+    "website": "https://www.education.gov.in",
+    "mLabel": "Ministry of Education",
+    "mDescription": "ministry responsible for education within the Government of India",
+    "inception": "1985-01-01T00:00:00Z",
+    "qid": "Q4294642"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294772",
+    "website": "http://tourism.gov.in/",
+    "mLabel": "Ministry of Tourism",
+    "mDescription": "ministry of the Government of India",
+    "inception": "1967-01-01T00:00:00Z",
+    "qid": "Q4294772"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294776",
+    "website": "https://dhi.nic.in/",
+    "mLabel": "Ministry of Heavy Industries and Public Enterprises",
+    "qid": "Q4294776"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294812",
+    "website": "http://chemicals.nic.in",
+    "mLabel": "Ministry of Chemicals and Fertilizers",
+    "mDescription": "Indian Ministry",
+    "qid": "Q4294812"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q4294844",
+    "website": "http://powermin.nic.in",
+    "mLabel": "Ministry of Power",
+    "mDescription": "Ministry of Government of India",
+    "qid": "Q4294844"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q28176018",
+    "website": "http://www.tn.gov.in/department/35",
+    "mLabel": "Department of Welfare of Differently Abled Persons",
+    "mDescription": "Indian state government agency",
+    "qid": "Q28176018"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867567",
+    "mLabel": "Ministry of Surface Transport",
+    "inception": "1986-01-01T00:00:00Z",
+    "qid": "Q6867567"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q6867635",
+    "website": "http://www.tribal.nic.in",
+    "mLabel": "Ministry of Tribal Affairs",
+    "mDescription": "branch of government in India",
+    "qid": "Q6867635"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q7032562",
+    "website": "https://lawmin.gov.in",
+    "mLabel": "Ministry of Law and Justice",
+    "mDescription": "cabinet ministry under the Government of India",
+    "inception": "1833-01-01T00:00:00Z",
+    "qid": "Q7032562"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q16956017",
+    "website": "http://meity.gov.in/",
+    "mLabel": "Ministry of Electronics and Information Technology",
+    "mDescription": "government agency in India",
+    "inception": "2016-07-19T00:00:00Z",
+    "qid": "Q16956017"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q18357577",
+    "mLabel": "Shanta Kumar ministry",
+    "mDescription": "Indian ministry",
+    "qid": "Q18357577"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q18391714",
+    "website": "http://esaharyana.gov.in/",
+    "mLabel": "Department of Economic and Statistical Analysis",
+    "mDescription": "ministry and department of the Government of Haryana in India",
+    "qid": "Q18391714"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q12444035",
+    "website": "https://heavyindustries.gov.in/",
+    "mLabel": "Ministry of Heavy Industries",
+    "mDescription": "Union ministry of Government of India",
+    "qid": "Q12444035"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q12446115",
+    "website": "http://www.wcd.nic.in/",
+    "mLabel": "Ministry of Women and Child Development",
+    "mDescription": "ministry of the Government of India",
+    "qid": "Q12446115"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q12454897",
+    "website": "http://dot.gov.in/",
+    "mLabel": "Ministry of Communications",
+    "mDescription": "Indian ministerial agency",
+    "qid": "Q12454897"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q12455047",
+    "website": "http://mpa.nic.in",
+    "mLabel": "Ministry of Parliamentary Affairs",
+    "mDescription": "ministry of Government of India",
+    "inception": "1949-01-01T00:00:00Z",
+    "qid": "Q12455047"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q13111524",
+    "mLabel": "Department of Transport, Government of Kerala",
+    "mDescription": "a department of government of kerala.",
+    "qid": "Q13111524"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q15650503",
+    "website": "http://www.civilaviation.gov.in/",
+    "mLabel": "Ministry of Civil Aviation",
+    "mDescription": "Indian government ministry",
+    "qid": "Q15650503"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q17068740",
+    "mLabel": "Ministry of Personnel & Administrative Reforms",
+    "mDescription": "Indian state government ministry",
+    "qid": "Q17068740"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q112970682",
+    "mLabel": "Department of Home (Kerala)",
+    "mDescription": "department of Government of Kerala",
+    "qid": "Q112970682"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q31738572",
+    "website": "https://marathi.gov.in/",
+    "mLabel": "Ministry of Marathi Language",
+    "mDescription": "The Ministry of Marathi Language is a ministry in government of Maharashtra. Ministry is responsible for promotion of Marathi language in India as well as abroad.",
+    "qid": "Q31738572"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q56012995",
+    "mLabel": "Ministry of Disinvestment",
+    "mDescription": "responsible for disinvestment of public sector enterprises in India",
+    "qid": "Q56012995"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q85756407",
+    "mLabel": "Department of Labour",
+    "mDescription": "government department in West Bengal",
+    "qid": "Q85756407"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q85785741",
+    "website": "https://jalshakti.gov.in/",
+    "mLabel": "Ministry of Jal Shakti",
+    "mDescription": "ministry of Indian government",
+    "inception": "2019-05-01T00:00:00Z",
+    "qid": "Q85785741"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q89285495",
+    "website": "https://gujhealth.gujarat.gov.in",
+    "mLabel": "Health and Family Welfare Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q89285495"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116824676",
+    "website": "https://agri.gujarat.gov.in",
+    "mLabel": "Agriculture, Farmers Welfare and Co-operation Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116824676"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116824941",
+    "website": "https://ccd.gujarat.gov.in",
+    "mLabel": "Climate Change Department",
+    "mDescription": "department of Government of Gujarat",
+    "inception": "2009-01-01T00:00:00Z",
+    "qid": "Q116824941"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116825086",
+    "website": "https://gujarat-education.gov.in",
+    "mLabel": "Education Department",
+    "mDescription": "department of Government of Gujarat",
+    "inception": "1976-08-01T00:00:00Z",
+    "qid": "Q116825086"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116825870",
+    "website": "https://guj-epd.gujarat.gov.in",
+    "mLabel": "Energy and Petrochemicals Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116825870"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116826293",
+    "website": "https://financedepartment.gujarat.gov.in",
+    "mLabel": "Finance Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116826293"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116826428",
+    "website": "https://fcsca.gujarat.gov.in",
+    "mLabel": "Food, Civil Supplies and Consumer Affairs Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116826428"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116826657",
+    "website": "https://fed.gujarat.gov.in",
+    "mLabel": "Forests and Environment Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116826657"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116826792",
+    "website": "https://gad.gujarat.gov.in",
+    "mLabel": "General Administration Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116826792"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116826995",
+    "website": "https://home.gujarat.gov.in",
+    "mLabel": "Home Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116826995"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909026",
+    "website": "https://imd.gujarat.gov.in",
+    "mLabel": "Industries and Mines Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909026"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909030",
+    "website": "https://gujaratinformation.gujarat.gov.in",
+    "mLabel": "Information Department",
+    "mDescription": "department of Government of Gujarat",
+    "inception": "1960-05-01T00:00:00Z",
+    "qid": "Q116909030"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909035",
+    "website": "https://labour.gujarat.gov.in",
+    "mLabel": "Labour, Skill Development and Employment Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909035"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909041",
+    "website": "https://legal.gujarat.gov.in",
+    "mLabel": "Legal Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909041"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909042",
+    "mLabel": "Legislative and Parliamentary Affairs Department",
+    "mDescription": "department of Government of Gujarat",
+    "inception": "1993-11-01T00:00:00Z",
+    "qid": "Q116909042"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909046",
+    "website": "https://guj-nwrws.gujarat.gov.in",
+    "mLabel": "Narmada and Water Resources, Water Supply and Kalpsar Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909046"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909049",
+    "website": "https://panchayat.gujarat.gov.in",
+    "mLabel": "Panchayat, Rural Housing and Rural Development Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909049"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909061",
+    "website": "https://pnt.gujarat.gov.in",
+    "mLabel": "Ports and Transport Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909061"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909066",
+    "website": "https://revenuedepartment.gujarat.gov.in",
+    "mLabel": "Revenue Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909066"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909088",
+    "website": "https://rnbgujarat.org",
+    "mLabel": "Roads and Buildings Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909088"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909095",
+    "website": "https://dst.gujarat.gov.in",
+    "mLabel": "Science and Technology Department",
+    "mDescription": "department of Government of Gujarat",
+    "inception": "2002-06-21T00:00:00Z",
+    "qid": "Q116909095"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909097",
+    "website": "https://sje.gujarat.gov.in",
+    "mLabel": "Social Justice and Empowerment Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909097"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909117",
+    "website": "https://sycd.gujarat.gov.in",
+    "mLabel": "Sports, Youth and Cultural Activities Department",
+    "mDescription": "department of Government of Gujarat",
+    "inception": "1990-12-17T00:00:00Z",
+    "qid": "Q116909117"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909124",
+    "website": "https://tribal.gujarat.gov.in",
+    "mLabel": "Tribal Development Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909124"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909136",
+    "website": "https://udd.gujarat.gov.in",
+    "mLabel": "Urban Development and Urban Housing Department",
+    "mDescription": "department of Government of Gujarat",
+    "inception": "1983-07-01T00:00:00Z",
+    "qid": "Q116909136"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q116909150",
+    "website": "https://wcd.gujarat.gov.in",
+    "mLabel": "Women and Child Development Department",
+    "mDescription": "department of Government of Gujarat",
+    "qid": "Q116909150"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q65042516",
+    "website": "https://www.dahd.nic.in/",
+    "mLabel": "Ministry of Fisheries, Animal Husbandry and Dairying",
+    "mDescription": "government ministry in India",
+    "inception": "2019-01-01T00:00:00Z",
+    "qid": "Q65042516"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q65042854",
+    "mLabel": "Ministry of Planning",
+    "mDescription": "Union ministry of the Government of India",
+    "qid": "Q65042854"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q105670701",
+    "mLabel": "Public Works Department",
+    "mDescription": "agency in Bombay Presidency",
+    "qid": "Q105670701"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q107524824",
+    "mLabel": "Ministry of Environment and Climate Change of Maharashtra",
+    "mDescription": "government department of Maharashtra, India",
+    "qid": "Q107524824"
+   },
+   {
+    "m": "http://www.wikidata.org/entity/Q107599813",
+    "website": "https://cooperation.gov.in/",
+    "mLabel": "Ministry of Cooperation",
+    "mDescription": "ministry of the Government of India",
+    "inception": "2021-01-01T00:00:00Z",
+    "qid": "Q107599813"
+   }
+  ],
+  "parties": [
+   {
+    "p": "http://www.wikidata.org/entity/Q59177",
+    "website": "http://shivsena.org/",
+    "inception": "1966-01-01T00:00:00Z",
+    "pLabel": "Shiv Sena",
+    "pDescription": "political party of India",
+    "qid": "Q59177"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q148034",
+    "website": "http://www.shiromaniakalidal.org.in/",
+    "inception": "1920-12-14T00:00:00Z",
+    "pLabel": "Shiromani Akali Dal",
+    "pDescription": "political party in India",
+    "qid": "Q148034"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q195119",
+    "inception": "1994-01-01T00:00:00Z",
+    "pLabel": "Marumalarchi Dravida Munnetra Kazhagam",
+    "pDescription": "political party",
+    "qid": "Q195119"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q803681",
+    "website": "http://www.bspindia.org/",
+    "inception": "1984-04-14T00:00:00Z",
+    "pLabel": "Bahujan Samaj Party",
+    "pDescription": "Political party of India",
+    "qid": "Q803681"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q859993",
+    "website": "http://www.bjdodisha.org.in/",
+    "inception": "1997-01-01T00:00:00Z",
+    "pLabel": "Biju Janata Dal",
+    "pDescription": "Political party of India. A regional political party",
+    "qid": "Q859993"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q912158",
+    "pLabel": "Naxalite",
+    "pDescription": "left wing political party in India",
+    "qid": "Q912158"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1111176",
+    "website": "http://geocities.com/CapitolHill/Congress/7434",
+    "inception": "1979-01-01T00:00:00Z",
+    "pLabel": "United Liberation Front of Assam",
+    "pDescription": "Rebel organisation operating in state of Assam, India",
+    "qid": "Q1111176"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1126393",
+    "website": "https://mizonationalfront.org/",
+    "inception": "1961-01-01T00:00:00Z",
+    "pLabel": "Mizo National Front",
+    "pDescription": "political party",
+    "qid": "Q1126393"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1166149",
+    "website": "http://allindianrcongress.com/",
+    "inception": "2011-01-01T00:00:00Z",
+    "pLabel": "All India N.R. Congress",
+    "pDescription": "political party",
+    "qid": "Q1166149"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1200751",
+    "website": "http://www.dmdkparty.com/",
+    "inception": "2005-01-01T00:00:00Z",
+    "pLabel": "Desiya Murpokku Dravida Kazhagam",
+    "pDescription": "political party of India",
+    "qid": "Q1200751"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1452292",
+    "website": "http://cpiml.net",
+    "inception": "1974-01-01T00:00:00Z",
+    "pLabel": "Communist Party of India (Marxist–Leninist) Liberation",
+    "pDescription": "Political party of India",
+    "qid": "Q1452292"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1452315",
+    "website": "http://forwardbloc.org/",
+    "inception": "1939-06-22T00:00:00Z",
+    "pLabel": "All India Forward Bloc",
+    "pDescription": "Political party of India",
+    "qid": "Q1452315"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1546941",
+    "website": "http://www.samajwadiparty.in/",
+    "inception": "1992-10-04T00:00:00Z",
+    "pLabel": "Samajwadi Party",
+    "pDescription": "political party in India",
+    "qid": "Q1546941"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1561861",
+    "website": "http://www.ncp.org.in",
+    "inception": "1999-01-01T00:00:00Z",
+    "pLabel": "Nationalist Congress Party",
+    "pDescription": "political party in India",
+    "qid": "Q1561861"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1626979",
+    "website": "http://www.jknc.in/",
+    "inception": "1939-01-01T00:00:00Z",
+    "pLabel": "Jammu & Kashmir National Conference",
+    "pDescription": "political party of India",
+    "qid": "Q1626979"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1635587",
+    "inception": "1938-01-01T00:00:00Z",
+    "pLabel": "Revolutionary Socialist Party",
+    "pDescription": "political party in India",
+    "qid": "Q1635587"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2022194",
+    "pLabel": "West Bengal Socialist Party",
+    "pDescription": "Political party of India",
+    "qid": "Q2022194"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2418473",
+    "website": "http://abhm.in/",
+    "inception": "1915-01-01T00:00:00Z",
+    "pLabel": "Akhil Bharatiya Hindu Mahasabha",
+    "pDescription": "Indian political party",
+    "qid": "Q2418473"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2542705",
+    "website": "http://www.aiudf.org/",
+    "inception": "2005-01-01T00:00:00Z",
+    "pLabel": "All India United Democratic Front",
+    "pDescription": "political party in India",
+    "qid": "Q2542705"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2605500",
+    "inception": "1923-01-09T00:00:00Z",
+    "pLabel": "Swaraj Party",
+    "pDescription": "political party in British Raj",
+    "qid": "Q2605500"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2670659",
+    "pLabel": "Bodo Liberation Tigers Force",
+    "pDescription": "dissolved armed militant group in Assam, India",
+    "qid": "Q2670659"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2715954",
+    "inception": "1980-01-01T00:00:00Z",
+    "pLabel": "People's War Group",
+    "pDescription": "Indian political party",
+    "qid": "Q2715954"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2720788",
+    "inception": "1980-01-01T00:00:00Z",
+    "pLabel": "Gorkha National Liberation Front",
+    "pDescription": "Indian Political Party",
+    "qid": "Q2720788"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2740234",
+    "inception": "1985-01-01T00:00:00Z",
+    "pLabel": "Asom Gana Parishad",
+    "pDescription": "political party in the state of Assam, India",
+    "qid": "Q2740234"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2941659",
+    "website": "http://peoplesmarch.googlepages.com/",
+    "inception": "2004-09-21T00:00:00Z",
+    "pLabel": "Communist Party of India (Maoist)",
+    "pDescription": "Maoist political party and militant group in India",
+    "qid": "Q2941659"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3056394",
+    "website": "https://jamaateislamihind.org/",
+    "inception": "1941-08-26T00:00:00Z",
+    "pLabel": "Jamaat-e-Islami Hind",
+    "pDescription": "Islamic organisation in India",
+    "qid": "Q3056394"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3113069",
+    "website": "https://plamanipur.com/",
+    "inception": "1978-01-01T00:00:00Z",
+    "pLabel": "People's Liberation Army of Manipur",
+    "pDescription": "militant organization since 1978",
+    "qid": "Q3113069"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3140347",
+    "website": "http://www.manase.org/",
+    "inception": "2006-01-01T00:00:00Z",
+    "pLabel": "Maharashtra Navnirman Sena",
+    "pDescription": "Political party of India",
+    "qid": "Q3140347"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3243855",
+    "inception": "1950-01-01T00:00:00Z",
+    "pLabel": "Sikkim National Party",
+    "pDescription": "former Sikkim political party",
+    "qid": "Q3243855"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3273397",
+    "inception": "1972-01-01T00:00:00Z",
+    "pLabel": "Jharkhand Mukti Morcha",
+    "pDescription": "political party in Jharkhand, India",
+    "qid": "Q3273397"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3277236",
+    "inception": "1960-01-01T00:00:00Z",
+    "pLabel": "Sikkim National Congress",
+    "pDescription": "Indian political party",
+    "qid": "Q3277236"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3277586",
+    "website": "http://www.npfweb.org/",
+    "inception": "2002-01-01T00:00:00Z",
+    "pLabel": "Naga People's Front",
+    "pDescription": "political party of India",
+    "qid": "Q3277586"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3279403",
+    "inception": "1957-01-01T00:00:00Z",
+    "pLabel": "Republican Party of India",
+    "pDescription": "Indian political party that grew out of the Scheduled Castes Federation",
+    "qid": "Q3279403"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3345058",
+    "inception": "2008-01-01T00:00:00Z",
+    "pLabel": "Praja Rajyam Party",
+    "pDescription": "Indian political party",
+    "qid": "Q3345058"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3347945",
+    "website": "http://www.sucicommunist.org/",
+    "inception": "1948-01-01T00:00:00Z",
+    "pLabel": "Socialist Unity Centre of India (Communist)",
+    "pDescription": "political party in India",
+    "qid": "Q3347945"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3518390",
+    "website": "https://brsonline.in/",
+    "inception": "2001-01-01T00:00:00Z",
+    "pLabel": "Bharat Rashtra Samithi",
+    "pDescription": "political party of India",
+    "qid": "Q3518390"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3595134",
+    "inception": "1964-01-01T00:00:00Z",
+    "pLabel": "Kerala Congress",
+    "pDescription": "Political party of India",
+    "qid": "Q3595134"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3781719",
+    "website": "https://samataparty.org/",
+    "inception": "1994-01-01T00:00:00Z",
+    "pLabel": "Samata Party",
+    "pDescription": "Political party of India",
+    "qid": "Q3781719"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3781724",
+    "website": "http://www.jkpdp.org/",
+    "inception": "1999-01-01T00:00:00Z",
+    "pLabel": "Jammu and Kashmir People's Democratic Party",
+    "pDescription": "Political party of India",
+    "qid": "Q3781724"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q4729039",
+    "inception": "1986-01-01T00:00:00Z",
+    "pLabel": "All Jharkhand Students Union",
+    "pDescription": "political party in India",
+    "qid": "Q4729039"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q4801137",
+    "website": "https://www.sikkimkrantikarimorcha.org/",
+    "inception": "2013-01-01T00:00:00Z",
+    "pLabel": "Sikkim Krantikari Morcha",
+    "pDescription": "political party in India",
+    "qid": "Q4801137"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q5055273",
+    "inception": "1986-01-01T00:00:00Z",
+    "pLabel": "Communist Marxist Party",
+    "pDescription": "political party in Kerala, South India",
+    "qid": "Q5055273"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q5071154",
+    "inception": "1994-01-01T00:00:00Z",
+    "pLabel": "Janathipathiya Samrakshana Samithy",
+    "pDescription": "Political party of India",
+    "qid": "Q5071154"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q5961363",
+    "website": "http://www.rashtriyalokdal.com/",
+    "inception": "1998-01-01T00:00:00Z",
+    "pLabel": "Rashtriya Lok Dal",
+    "pDescription": "political party of India",
+    "qid": "Q5961363"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q6190965",
+    "website": "http://jvmp.in/",
+    "inception": "2006-01-01T00:00:00Z",
+    "pLabel": "Jharkhand Vikas Morcha",
+    "pDescription": "political party in India",
+    "qid": "Q6190965"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q6480083",
+    "inception": "1942-01-01T00:00:00Z",
+    "pLabel": "Lal Nishan Party",
+    "pDescription": "left wing political party in India from 1980-2018",
+    "qid": "Q6480083"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q6733389",
+    "inception": "1963-01-01T00:00:00Z",
+    "pLabel": "Maharashtrawadi Gomantak Party",
+    "pDescription": "Political party of India",
+    "qid": "Q6733389"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q6744995",
+    "inception": "1982-01-01T00:00:00Z",
+    "pLabel": "Jammu and Kashmir National Panthers Party",
+    "pDescription": "Political party of India",
+    "qid": "Q6744995"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q10660839",
+    "inception": "1990-01-01T00:00:00Z",
+    "pLabel": "Samajwadi Janata Party ( Rashtriya)",
+    "pDescription": "political party in India",
+    "qid": "Q10660839"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q20310838",
+    "website": "http://www.hamsecular.org/",
+    "inception": "2015-01-01T00:00:00Z",
+    "pLabel": "Hindustani Awam Morcha",
+    "pDescription": "political party in India",
+    "qid": "Q20310838"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q28924648",
+    "inception": "2016-01-01T00:00:00Z",
+    "pLabel": "Apna Dal (Sonelal)",
+    "pDescription": "political party in India",
+    "qid": "Q28924648"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q48733786",
+    "website": "https://ndpp.co.in/",
+    "inception": "2017-01-01T00:00:00Z",
+    "pLabel": "Nationalist Democratic Progressive Party",
+    "pDescription": "Regional Political Party in India",
+    "qid": "Q48733786"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q62091543",
+    "inception": "2018-03-15T00:00:00Z",
+    "pLabel": "Amma Makkal Munnetra Kazagam",
+    "pDescription": "Indian political party",
+    "qid": "Q62091543"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q124408791",
+    "website": "https://tvkvijay.com",
+    "inception": "2024-02-02T00:00:00Z",
+    "pLabel": "Tamilaga Vettri Kazhagam",
+    "pDescription": "political party in Tamil Nadu, India",
+    "qid": "Q124408791"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q10225",
+    "abbr": "INC",
+    "website": "https://inc.in",
+    "inception": "1885-12-28T00:00:00Z",
+    "pLabel": "Indian National Congress",
+    "pDescription": "centrist-liberal political party in India",
+    "qid": "Q10225"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q10230",
+    "abbr": "BJP",
+    "website": "https://www.bjp.org/",
+    "inception": "1980-01-01T00:00:00Z",
+    "pLabel": "Bharatiya Janata Party",
+    "pDescription": "right-wing political party in India",
+    "qid": "Q10230"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q129844",
+    "abbr": "AAP",
+    "website": "https://aamaadmiparty.org/",
+    "inception": "2012-11-26T00:00:00Z",
+    "pLabel": "Aam Aadmi Party",
+    "pDescription": "National Political Party in India",
+    "qid": "Q129844"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q234277",
+    "abbr": "CPI(M)",
+    "website": "https://cpim.org",
+    "inception": "1964-11-07T00:00:00Z",
+    "pLabel": "Communist Party of India (Marxist)",
+    "pDescription": "Indian political party",
+    "qid": "Q234277"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q651141",
+    "abbr": "AIADMK",
+    "website": "http://www.aiadmk.com/",
+    "inception": "1972-10-17T00:00:00Z",
+    "pLabel": "All India Anna Dravida Munnetra Kazhagam",
+    "pDescription": "Indian political party",
+    "qid": "Q651141"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q837159",
+    "abbr": "CPI",
+    "website": "https://communistparty.in",
+    "inception": "1925-12-26T00:00:00Z",
+    "pLabel": "Communist Party of India",
+    "pDescription": "left-wing political party in India",
+    "qid": "Q837159"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q904827",
+    "abbr": "JD(U)",
+    "website": "http://www.janatadalunited.org/",
+    "inception": "2003-01-01T00:00:00Z",
+    "pLabel": "Janata Dal (United)",
+    "pDescription": "political party in India",
+    "qid": "Q904827"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q912899",
+    "abbr": "AITC",
+    "website": "http://aitcofficial.org/",
+    "inception": "1998-01-01T00:00:00Z",
+    "pLabel": "All India Trinamool Congress",
+    "pDescription": "a political party of India",
+    "qid": "Q912899"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1255973",
+    "abbr": "DMK",
+    "website": "https://www.dmk.in/",
+    "inception": "1949-01-01T00:00:00Z",
+    "pLabel": "Dravida Munnetra Kazhagam",
+    "pDescription": "political party in India",
+    "qid": "Q1255973"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1601619",
+    "abbr": "JD (S)",
+    "website": "http://www.janatadals.com",
+    "inception": "1999-07-01T00:00:00Z",
+    "pLabel": "Janata Dal (Secular)",
+    "pDescription": "political party of India, established 1999",
+    "qid": "Q1601619"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q1887353",
+    "abbr": "PMK",
+    "website": "http://www.anbumani4cm.com/",
+    "inception": "1999-01-01T00:00:00Z",
+    "pLabel": "Pattali Makkal Katchi",
+    "pDescription": "Political party of India",
+    "qid": "Q1887353"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2279320",
+    "abbr": "TDP",
+    "website": "http://www.telugudesam.org/",
+    "inception": "1982-03-29T00:00:00Z",
+    "pLabel": "Telugu Desam Party",
+    "pDescription": "Indian political party",
+    "qid": "Q2279320"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2285614",
+    "abbr": "SDF",
+    "inception": "1993-01-01T00:00:00Z",
+    "pLabel": "Sikkim Democratic Front",
+    "pDescription": "political party in Sikkim, India",
+    "qid": "Q2285614"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q2837501",
+    "abbr": "AIMIM",
+    "website": "http://www.aimim.org/",
+    "inception": "1927-01-01T00:00:00Z",
+    "pLabel": "All India Multiculturalism Minority Rights",
+    "pDescription": "political party of India",
+    "qid": "Q2837501"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3176919",
+    "abbr": "RJD",
+    "website": "http://www.rjd.co.in/",
+    "inception": "1997-01-01T00:00:00Z",
+    "pLabel": "Rashtriya Janata Dal",
+    "pDescription": "political party of India",
+    "qid": "Q3176919"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3196786",
+    "abbr": "IUML",
+    "website": "http://iuml.com/",
+    "inception": "1948-01-01T00:00:00Z",
+    "pLabel": "Indian Union Muslim League",
+    "pDescription": "political party",
+    "qid": "Q3196786"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q3634933",
+    "abbr": "LJP",
+    "website": "http://www.ljp.co.in/",
+    "inception": "2000-01-01T00:00:00Z",
+    "pLabel": "Lok Janshakti Party",
+    "pDescription": "Political Party of India",
+    "qid": "Q3634933"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q6974870",
+    "abbr": "NPP",
+    "website": "https://www.nppindia.in/",
+    "inception": "2013-01-01T00:00:00Z",
+    "pLabel": "National People's Party",
+    "pDescription": "regional political party of India",
+    "qid": "Q6974870"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q8046035",
+    "abbr": "YSRCP",
+    "website": "https://www.ysrcongress.com/",
+    "inception": "2009-01-01T00:00:00Z",
+    "pLabel": "YSR Congress Party",
+    "pDescription": "Indian political party",
+    "qid": "Q8046035"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q10534955",
+    "abbr": "INLD",
+    "website": "http://www.inld.org/",
+    "inception": "1999-01-01T00:00:00Z",
+    "pLabel": "Indian National Lok Dal",
+    "pDescription": "political party in India",
+    "qid": "Q10534955"
+   },
+   {
+    "p": "http://www.wikidata.org/entity/Q114593583",
+    "abbr": "SHS",
+    "inception": "2022-10-10T00:00:00Z",
+    "pLabel": "Balasahebanchi Shiv Sena",
+    "pDescription": "Indian political party",
+    "qid": "Q114593583"
+   }
+  ],
+  "plants": [
+   {
+    "s": "http://www.wikidata.org/entity/Q60760557",
+    "coord": "Point(75.9925 15.651944)",
+    "sLabel": "Karnataka I Solar Power Plant",
+    "sDescription": "power plant in Karnataka, India",
+    "typeLabel": "photovoltaic power station",
+    "qid": "Q60760557"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q7283704",
+    "coord": "Point(77.34194444 16.355)",
+    "sLabel": "Raichur Thermal Power Station",
+    "sDescription": "coal-fired power station in India",
+    "typeLabel": "coal-fired power station",
+    "cap": "1720",
+    "operatorLabel": "Karnataka Power Corporation Limited",
+    "qid": "Q7283704"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q16930658",
+    "coord": "Point(76.6634238 15.1863506)",
+    "sLabel": "JSW Vijayanagar Power Station",
+    "sDescription": "coal-based thermal power plant in Karnataka",
+    "typeLabel": "coal-fired power station",
+    "cap": "860",
+    "operatorLabel": "JSW Energy",
+    "qid": "Q16930658"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q15717503",
+    "coord": "Point(75.8333 16.5)",
+    "sLabel": "Kudgi Super Thermal Power Project",
+    "sDescription": "building in India",
+    "typeLabel": "coal-fired power station",
+    "cap": "2400",
+    "operatorLabel": "NTPC Limited",
+    "qid": "Q15717503"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q19899118",
+    "coord": "Point(77.3525 16.29111111)",
+    "sLabel": "Yermarus Thermal Power Station",
+    "sDescription": "building in India",
+    "typeLabel": "coal-fired power station",
+    "cap": "1600",
+    "qid": "Q19899118"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q3444765",
+    "coord": "Point(75.888 16.331)",
+    "sLabel": "Almatti Dam",
+    "sDescription": "dam in India",
+    "typeLabel": "hydroelectric power station",
+    "cap": "290",
+    "operatorLabel": "Karnataka Water Resources Department",
+    "qid": "Q3444765"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q3536409",
+    "coord": "Point(74.84627 14.175587)",
+    "sLabel": "Linganamakki Dam",
+    "sDescription": "dam in India",
+    "typeLabel": "hydroelectric power station",
+    "cap": "55",
+    "operatorLabel": "Karnataka Power Corporation Limited",
+    "qid": "Q3536409"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q7641875",
+    "coord": "Point(74.5267 15.2761)",
+    "sLabel": "Supa Dam",
+    "sDescription": "dam in India",
+    "typeLabel": "hydroelectric power station",
+    "cap": "100",
+    "qid": "Q7641875"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q7853026",
+    "coord": "Point(76.337868 15.2611979)",
+    "sLabel": "Tungabhadra Dam",
+    "sDescription": "multipurpose dam near Hospet, Karnataka",
+    "typeLabel": "hydroelectric power station",
+    "cap": "64",
+    "qid": "Q7853026"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q12000161",
+    "coord": "Point(74.767444444 14.233555555)",
+    "sLabel": "Sharavathi hydro power station",
+    "typeLabel": "hydroelectric power station",
+    "cap": "1035",
+    "operatorLabel": "Karnataka Power Corporation Limited",
+    "qid": "Q12000161"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q12009005",
+    "coord": "Point(74.9995 13.702916666)",
+    "sLabel": "Varahi underground Powerhouse",
+    "typeLabel": "hydroelectric power station",
+    "cap": "460",
+    "operatorLabel": "Karnataka Power Corporation Limited",
+    "qid": "Q12009005"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q11971917",
+    "coord": "Point(74.674833333 14.251583333)",
+    "sLabel": "Gerusoppa Dam Powerhouse",
+    "typeLabel": "hydroelectric power station",
+    "cap": "240",
+    "operatorLabel": "Karnataka Power Corporation Limited",
+    "qid": "Q11971917"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q19382498",
+    "coord": "Point(74.647444444 15.078583333)",
+    "sLabel": "Nagjhari hydroelectric power station",
+    "typeLabel": "hydroelectric power station",
+    "cap": "900",
+    "operatorLabel": "Karnataka Power Corporation Limited",
+    "qid": "Q19382498"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q56366915",
+    "coord": "Point(74.799361111 14.227305555)",
+    "sLabel": "Mahathma Gandhi Hydro Electric Station",
+    "typeLabel": "hydroelectric power station",
+    "cap": "139.2",
+    "qid": "Q56366915"
+   },
+   {
+    "s": "http://www.wikidata.org/entity/Q56366954",
+    "coord": "Point(74.5345 14.920388888)",
+    "sLabel": "Kodasalli Dam Powerhouse",
+    "typeLabel": "hydroelectric power station",
+    "cap": "120",
+    "operatorLabel": "Karnataka Power Corporation Limited",
+    "qid": "Q56366954"
+   }
+  ]
+ }
+}
